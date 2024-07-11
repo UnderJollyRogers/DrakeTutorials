@@ -10,5 +10,5 @@ Before running the Python files, you need to set up a virtual environment with t
 python3.10 -m venv vdrake
 source vdrake/bin/activate
 pip3 install manipulation --extra-index-url https://drake-packages.csail.mit.edu/whl/nightly/
-
+exit
 For more details on the installation, follow this link: [Installation Guide](https://manipulation.csail.mit.edu/drake.html).
